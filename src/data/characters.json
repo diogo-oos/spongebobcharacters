@@ -1,0 +1,156 @@
+[
+    {        
+        "id": 1,
+        "nome": "Bob Esponja Calça Quadrada",
+        "genero": "Masculino",
+        "especie": "Filo Porifera (esponja do mar)",
+        "profissao": "Mestre-cuca do Siri Cascudo, mas também já foi caixa, garçom e gerente do Siri Cascudo",
+        "qtdAparicoes": 299,
+        "vivo": true
+    },
+    {
+        "id": 2,
+        "nome": "Eugene Hood Sirigueijo",
+        "genero": "Masculino",
+        "especie": "Siri do mar vermelho",
+        "profissao": "Gerente do Siri Cascudo",
+        "qtdAparicoes": 254,
+        "vivo": true
+    },
+    {
+        "id": 3,
+        "nome": "Lula Molusco Tentáculos",
+        "genero": "Masculino",
+        "especie": "Filo Mollusca (polvo)",
+        "profissao": "Caixa do Siri Cascudo",
+        "qtdAparicoes": 279,
+        "vivo": true
+    },
+    {
+        "id": 4,
+        "nome": "Patrick Estrela",
+        "genero": "Masculino",
+        "especie": "Estrela do mar",
+        "profissao": "atualmente desempregado",
+        "qtdAparicoes": 288,
+        "vivo": false
+    },
+    {
+        "id": 5,
+        "nome": "Sheldon J. Plankton",
+        "genero": "Masculino",
+        "especie": "Copépode (plâncton)",
+        "profissao": "Dono do Balde de Lixo",
+        "qtdAparicoes": 222,
+        "vivo": true
+    },
+    {
+        "id": 6,
+        "nome": "Karen Plankton",
+        "genero": "Feminino",
+        "especie": "--",
+        "profissao": "Computador do restaurante Balde de Lixo",
+        "qtdAparicoes": 159,
+        "vivo": false
+    },
+    {
+        "id": 7,
+        "nome": "Sandy Bochechas",
+        "genero": "Feminino",
+        "especie": "Esquilo",
+        "profissao": "Cientista",
+        "qtdAparicoes": 202,
+        "vivo": true
+    },
+    {
+        "id": 8,
+        "nome": "Senhora Puff",
+        "genero": "Feminino",
+        "especie": "Baiacu",
+        "profissao": "Instrutora de pilotagem",
+        "qtdAparicoes": 196,
+        "vivo": false
+    },
+    {
+        "id": 9,
+        "nome": "Pérola Sirigueijo",
+        "genero": "Feminino",
+        "especie": "Baleia jubarte",
+        "profissao": "Garota propaganda do Siri Cascudo",
+        "qtdAparicoes": 147,
+        "vivo": false
+    },
+    {
+        "id": 10,
+        "nome": "Gary",
+        "genero": "Masculino",
+        "especie": "Caramujo marinho",
+        "profissao": "--",
+        "qtdAparicoes": 253,
+        "vivo": true
+    },
+    {
+        "id": "11",
+        "nome": "Mexilhãozinho",
+        "genero": "Masculino",
+        "especie": "Humano",
+        "profissao": "Herói aposentado",
+        "qtdAparicoes": 182,
+        "vivo": true
+    },
+    {
+        "id": 12,
+        "nome": "Holandês Voador",
+        "genero": "Masculino",
+        "especie": "Fantasma",
+        "profissao": "Expresso Assombrado, Encarregado de Davy Jones",
+        "qtdAparicoes": 179,
+        "vivo": false
+    },
+    {
+        "id": 13,
+        "nome": "Homem Raio",
+        "genero": "Masculino",
+        "especie": "Fantasma",
+        "profissao": "Vilão. Arqui-inimigo do Homem Sereia e do Mexilhãozinho",
+        "qtdAparicoes": 170,
+        "vivo": true
+    },
+    {
+        "id": 14,
+        "nome": "Squilliam Fancyson",
+        "genero": "Masculino",
+        "especie": "Filo Mollusca (polvo)",
+        "profissao": "Desconhecido",
+        "qtdAparicoes": 215,
+        "vivo": true
+    },
+    {
+        "id": 15,
+        "nome": "Patchy o Pirata",
+        "genero": "Masculino",
+        "especie": "Humano",
+        "profissao": "Pirata e apresentador do programa do Patchy",
+        "qtdAparicoes": 200,
+        "vivo": true
+    },
+    {
+        "id": 16,
+        "nome": "Potty o Papagaio",
+        "genero": "Masculino",
+        "especie": "Papagaio",
+        "profissao": "Co-apresentador do programa do Patchy",
+        "qtdAparicoes": 200,
+        "vivo": true
+    },
+    {
+        "id": 17,
+        "nome": "Rei Netuno",
+        "genero": "Masculino",
+        "especie": "Tritão",
+        "profissao": "Rei dos mares",
+        "qtdAparicoes": 1,
+        "vivo": true
+    }
+]
+  
